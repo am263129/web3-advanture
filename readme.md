@@ -5,8 +5,6 @@
 ![Island](progress-island.png)
 A trust-minimised implementation of a multiplayer online game on the blockchain.
 
-![defikingdoms](readme/web3-game.jpg)
-
 ## Motivation
 Video games are supposed to be **fun** and **challenging**, not mindless, boring staking disguised as _"gameplay"_.
 
@@ -58,6 +56,5 @@ Once the server determines that the player has successfully collected the coin, 
 
 ## Final thoughts
 
-![gigadoge](readme/gigadoge.jpg)
 
 Although this approach may not seem to be the most trustless, decentralised solution to building crypto games since we rely on a centralised game server to handle the game engine, in my opinion, I think that's rarely an issue. Not everything needs to be on-chain. Having your players' progression and items stored there is more than enough. This even provides you an advantage in the form of flexibility, upgradability, control and most importantly, being able to build fun and engaging games for your players. Thank you for reading <3
