@@ -1,4 +1,8 @@
+
+
 # web3-game
+
+![Island](progress-island.png)
 A trust-minimised implementation of a multiplayer online game on the blockchain.
 
 ![defikingdoms](readme/web3-game.jpg)
